@@ -1,0 +1,11 @@
+presidio-analyzer
+presidio-anonymizer
+pyahocorasick==1.4.4
+hebspacy
+pytest
+tkinter
+pyodbc
+pandas
+numpy
+hashlib
+linecache
